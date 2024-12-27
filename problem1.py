@@ -13,4 +13,4 @@ def main():
     print(sum(final))
 
 
-main() 
+main()
