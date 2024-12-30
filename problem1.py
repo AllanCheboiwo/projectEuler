@@ -9,8 +9,5 @@ def main():
     problem1(5,5,1000)
     problem1(3,3,1000)
     final = set(sol)
-
     print(sum(final))
-
-
 main()
